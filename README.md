@@ -8,6 +8,8 @@ And this UDF extends the Generic UDF,it contains three methods,exactly,getDispla
 initialize(),evaluate()
 
 
+## Result
+![](http://7xlphz.com1.z0.glb.clouddn.com/Catch.jpg)
 
 ## About
 This UDF works on the Transwarp Data Hub which contains a lots of components ,just like Inceptor,HyperBase,Discover,
